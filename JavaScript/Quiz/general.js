@@ -129,6 +129,20 @@ function reverseVow(s){
     return chars.filter(c => s.includes(c)).reverse();
 };
 
+//Longest common prefix
+var longestCommonPrefix = (strs) =>{
+    if (!strs.length) return "";
+    return strs.reduce((prefix, word) =>{
+        return prefix
+    .split("")
+    .filter((_, i) => word.startsWith(prefix.slice(0, i+1)))
+    .join("");
+    });
+
+    
+    
+};
+
 
 
 console.log(reverseInt(1234));

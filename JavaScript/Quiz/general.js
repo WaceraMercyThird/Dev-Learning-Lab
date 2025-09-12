@@ -143,7 +143,11 @@ var longestCommonPrefix = (strs) =>{
     
 };
 
-
+//Given a string s consisting of words and spaces,
+// return the length of the last word in the string.
+var lengthOfLastWord = function(s) {
+    return s.trim().split(" ").pop().length;
+};
 
 console.log(reverseInt(1234));
 console.log(reverseString("Mercie"));
@@ -161,14 +165,24 @@ console.log(factional(19))
 console.log(fibonacci(5))
 console.log(gcd(30, 20));
 // console.log(lcm(14, 16));
+console.log(lengthOfLastWord("Hello World ")); 
 
 
 
 
-// 🔎 Test
+// Test
 console.log("");   // 
 console.log(isPerfect(6));   // true 1+2+3 =6
 console.log(isPerfect(28));  // true
 console.log(isPerfect(12));  // false
 console.log(isPerfect(1));   // false
 console.log(isArmstrong(12));
+
+
+// s.trim() → removes extra spaces at the start and end.
+
+// .split(" ") → breaks string into an array of words.
+
+// .pop() → gets the last element (last word).
+
+// .length → counts its length.

@@ -1,0 +1,15 @@
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\bin\Debug\net9.0\CShape.exe
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\bin\Debug\net9.0\CShape.deps.json
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\bin\Debug\net9.0\CShape.runtimeconfig.json
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\bin\Debug\net9.0\CShape.dll
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\bin\Debug\net9.0\CShape.pdb
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.AssemblyInfoInputs.cache
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.AssemblyInfo.cs
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.sourcelink.json
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.dll
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\refint\CShape.dll
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.pdb
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\CShape.genruntimeconfig.cache
+C:\Users\HP\source\Work\CodingProjects\ProgrammingStudy\CShape\obj\Debug\net9.0\ref\CShape.dll
